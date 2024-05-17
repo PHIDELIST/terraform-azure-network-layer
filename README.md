@@ -1,4 +1,4 @@
-# Terraform Azure Base Infrastructure
+# Terraform Azure Network Layer
 
 Provisions an initial resource group and vnet with a NAT Gateway.
 
