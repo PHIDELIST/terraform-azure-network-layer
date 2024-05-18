@@ -1,6 +1,7 @@
 # Terraform Azure Network Layer
 
-Provisions an initial resource group and vnet with a NAT Gateway.
+Provisions an initial resource group and vnet with a NAT Gateway, private and public subnets.
+![Blank diagram (15)](https://github.com/PHIDELIST/terraform-azure-network-layer/assets/64526896/3218336b-f707-460d-bff0-4efcd18540c4)
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
